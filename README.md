@@ -1,5 +1,6 @@
 # Sanitização das Bases de Dados da Olist
-
+Nome: Luan Sarmento Orsi da Silva
+Turma: T3 - Machine Learning e Visão COmputacional
 
 
 ## Descrição do Projeto
